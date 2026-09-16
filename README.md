@@ -4,12 +4,21 @@ Official public resource library for **Starfleet Strategic Command**, an indepen
 
 This repository brings SSC guides, checklists, event information, and community resources into one organized location. Resources will grow as new material is reviewed and published.
 
-## Start Here
+## Published Guides
+
+### Returning Player Guides
+
+- [Returning to Star Trek Online in 2026](guides/returning-player-guide.md)  
+  A step-by-step re-entry guide covering account review, inventory safety, ship rebuilding, progression systems, resource protection, and a seven-session return plan.
+
+## Guides in Development
 
 - [Beginner Fleet Guide](guides/beginner-fleet-guide.md)
-- [Returning Player Guide](guides/returning-player-guide.md)
 - [Ship-Building Fundamentals](guides/ship-building-fundamentals.md)
-- [Contributing to SSC Resources](CONTRIBUTING.md)
+
+## Contribute
+
+Read [Contributing to SSC Resources](CONTRIBUTING.md) to report outdated information, suggest a guide, or submit a correction.
 
 ## Official SSC Links
 
