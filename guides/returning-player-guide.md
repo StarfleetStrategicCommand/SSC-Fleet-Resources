@@ -4,7 +4,24 @@ Returning to Star Trek Online after a long break often feels like opening an inv
 
 Do not start by buying a new ship or replacing everything. Spend a few sessions learning what you already own and getting one dependable character back into action.
 
-**Last reviewed:** September 2026
+**Last reviewed:** September 2026  
+**Platform focus:** PC, with console differences noted where relevant  
+**Maintained by:** Starfleet Strategic Command, The Original SSC
+
+> Star Trek Online changes over time. Events, rewards, balance updates, and interface details might differ after publication. Check the [official Star Trek Online news page](https://www.playstartrekonline.com/en/news) before spending premium currency or rare upgrade materials.
+
+## Contents
+
+- [Secure and review your account](#1-secure-and-review-your-account)
+- [Check current events and updates](#2-check-what-is-happening-now)
+- [Choose one character](#3-choose-one-character)
+- [Organize your inventory](#4-clean-up-without-losing-anything-important)
+- [Rebuild controls and your ship](#5-rebuild-your-controls)
+- [Review progression systems](#8-review-character-systems)
+- [Protect scarce resources](#9-spend-nothing-during-your-first-week)
+- [Return to team content](#10-return-to-team-content-gradually)
+- [Follow the seven-session plan](#11-a-seven-session-return-plan)
+- [Use the quick checklist](#quick-return-checklist)
 
 ## 1. Secure and Review Your Account
 
@@ -284,12 +301,22 @@ Instead of asking, "What is the best build?", ask, "What are the three most usef
 - [ ] Normal TFO completed
 - [ ] Purchases delayed until a clear need is identified
 
-## Need Help?
+## SSC and Community Resources
 
-Visit the [Starfleet Strategic Command website](https://starfleetstrategiccommand.com/) or use the [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/).
+- [Starfleet Strategic Command website](https://starfleetstrategiccommand.com/)
+- [SSC Academy](https://starfleetstrategiccommand.com/academy/)
+- [SSC Resources](https://starfleetstrategiccommand.com/resources/)
+- [SSC articles and fleet guides](https://starfleetstrategiccommand.com/star-trek-articles-fleet-guides/)
+- [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [Star Trek Online Wiki](https://stowiki.net/)
+- [STO Better](https://www.stobetter.com/)
 
-When asking for help, tell us where you are stuck and what resources you already have. A good return plan builds from your account, your preferred play style, and the ship you want to fly.
+When asking for help, explain where you are stuck and what resources you already have. A useful return plan starts with your account, preferred play style, and the ship you want to fly.
+
+## Contributing
+
+Found outdated information, a broken link, or an unclear step? Read the repository [contribution guide](../CONTRIBUTING.md) before submitting a correction.
 
 ## Fan Site Notice
 
-Starfleet Strategic Command is an independent fan community. It is not affiliated with, endorsed by, or sponsored by Paramount Global, CBS Studios, Cryptic Studios, or Arc Games. Star Trek, Star Trek Online, and related marks belong to their respective owners.
+Starfleet Strategic Command is an independent fan community. It is not affiliated with, endorsed by, or sponsored by Paramount Global, CBS Studios, Cryptic Studios, or Arc Games. Star Trek, Star Trek Online, and related marks belong to their respective owners. Read the repository [fan site disclaimer](../DISCLAIMER.md).
