@@ -6,15 +6,19 @@ This repository brings SSC guides, checklists, event information, and community 
 
 ## Published Guides
 
-### Returning Player Guides
+### New and Returning Captains
 
+- [Star Trek Online Beginner Fleet Guide](guides/beginner-fleet-guide.md)  
+  Learn how fleets work, evaluate a community, understand holdings and stores, and participate responsibly.
 - [Returning to Star Trek Online in 2026](guides/returning-player-guide.md)  
-  A step-by-step re-entry guide covering account review, inventory safety, ship rebuilding, progression systems, resource protection, and a seven-session return plan.
+  Review your account, protect older items, rebuild one ship, resume progression, and follow a seven-session return plan.
+- [Returning Player Checklist](checklists/returning-player-checklist.md)  
+  Use a compact checklist alongside the complete returning-player guide.
 
-## Guides in Development
+### Ship Building
 
-- [Beginner Fleet Guide](guides/beginner-fleet-guide.md)
-- [Ship-Building Fundamentals](guides/ship-building-fundamentals.md)
+- [Star Trek Online Ship-Building Fundamentals](guides/ship-building-fundamentals.md)  
+  Define a ship's role, align equipment and abilities, test changes, control costs, and request a useful build review.
 
 ## Contribute
 
