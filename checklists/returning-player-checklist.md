@@ -121,11 +121,13 @@ Prepare:
 
 ## Help and Resources
 
+- [Starfleet Strategic Command website](https://starfleetstrategiccommand.com/)
+- [SSC articles and fleet guides](https://starfleetstrategiccommand.com/star-trek-articles-fleet-guides/)
 - [Full SSC Returning Player Guide](../guides/returning-player-guide.md)
 - [SSC Ship-Building Fundamentals](../guides/ship-building-fundamentals.md)
 - [SSC Academy](https://starfleetstrategiccommand.com/academy/)
 - [SSC Resources](https://starfleetstrategiccommand.com/resources/)
-- [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [SSC Fleet Forum](https://starfleetstrategiccommand.com/starfleet-strategic-command-forum/)
 - [Official Star Trek Online News](https://www.playstartrekonline.com/en/news)
 
 ## Fan Site Notice
