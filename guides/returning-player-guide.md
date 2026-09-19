@@ -307,7 +307,7 @@ Instead of asking, "What is the best build?", ask, "What are the three most usef
 - [SSC Academy](https://starfleetstrategiccommand.com/academy/)
 - [SSC Resources](https://starfleetstrategiccommand.com/resources/)
 - [SSC articles and fleet guides](https://starfleetstrategiccommand.com/star-trek-articles-fleet-guides/)
-- [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [SSC Fleet Forum](https://starfleetstrategiccommand.com/starfleet-strategic-command-forum/)
 - [Star Trek Online Wiki](https://stowiki.net/)
 - [STO Better](https://www.stobetter.com/)
 
