@@ -325,9 +325,11 @@ Build planner or screenshots:
 
 ## SSC and Community Resources
 
+- [Starfleet Strategic Command website](https://starfleetstrategiccommand.com/)
+- [SSC articles and fleet guides](https://starfleetstrategiccommand.com/star-trek-articles-fleet-guides/)
 - [SSC Academy](https://starfleetstrategiccommand.com/academy/)
 - [SSC Resources](https://starfleetstrategiccommand.com/resources/)
-- [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [SSC Fleet Forum](https://starfleetstrategiccommand.com/starfleet-strategic-command-forum/)
 - [Star Trek Online Wiki](https://stowiki.net/)
 - [STO Better](https://www.stobetter.com/)
 - [r/stobuilds](https://www.reddit.com/r/stobuilds/)
