@@ -222,14 +222,19 @@ Choose your next fleet using what you learned about your schedule, preferred con
 - [ ] Avoid large donations until the system is clear
 - [ ] Protect your account information
 
+## Related SSC Guides
+
+- [Read the New Captain Fleet Guide](https://starfleetstrategiccommand.com/2026/08/star-trek-online-beginner-fleet-guide/)
+- [Learn how to choose a Star Trek Online fleet](https://starfleetstrategiccommand.com/2026/08/how-to-choose-a-star-trek-online-fleet/)
+
 ## About Starfleet Strategic Command
 
 Starfleet Strategic Command is a casual PC fleet founded in 2010. SSC welcomes new, returning, casual, and experienced captains. Voice chat is optional.
 
-- [Learn about The Original SSC](https://starfleetstrategiccommand.com/the-fleet/)
+- [Learn about The Original SSC](https://starfleetstrategiccommand.com/star-trek-online-fleet/)
 - [Visit the SSC Academy](https://starfleetstrategiccommand.com/academy/)
 - [Browse SSC Resources](https://starfleetstrategiccommand.com/resources/)
-- [Visit the SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [Visit the SSC Fleet Forum](https://starfleetstrategiccommand.com/starfleet-strategic-command-forum/)
 
 ## Contributing
 
