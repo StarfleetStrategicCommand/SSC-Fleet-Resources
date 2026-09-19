@@ -27,10 +27,15 @@ Read [Contributing to SSC Resources](CONTRIBUTING.md) to report outdated informa
 ## Official SSC Links
 
 - [SSC Fleet Website](https://starfleetstrategiccommand.com/)
-- [SSC Fleet Forum](https://starfleetstrategiccommand.com/ssc-forum/)
+- [The Original SSC Fleet](https://starfleetstrategiccommand.com/star-trek-online-fleet/)
+- [SSC Academy](https://starfleetstrategiccommand.com/academy/)
+- [SSC Resource Directory](https://starfleetstrategiccommand.com/resources/)
+- [SSC Articles and Fleet Guides](https://starfleetstrategiccommand.com/star-trek-articles-fleet-guides/)
+- [SSC Fleet Forum](https://starfleetstrategiccommand.com/starfleet-strategic-command-forum/)
+- [SSC Social Links](https://starfleetstrategiccommand.com/social-links/)
 - [Instagram](https://www.instagram.com/ssc_fleet/)
 - [X](https://x.com/SSCFleet)
-- [Threads](https://www.threads.net/@ssc_fleet)
+- [Threads](https://www.threads.com/@ssc_fleet)
 - [YouTube](https://www.youtube.com/@TheOriginalSSC)
 
 ## Repository Structure
